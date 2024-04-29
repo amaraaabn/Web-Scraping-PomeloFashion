@@ -2,6 +2,11 @@
 
 Welcome to my data scraping portfolio on GitHub! As a new data analyst in the field, I am excited to showcase my skills in web scraping by extracting product information from the Pomelo Fashion e-commerce website.
 
+## Important Note
+
+If you encounter difficulties opening or previewing the files directly from GitHub, please use the following link to access the files through Google Colab:
+[Open in Google Colab](https://colab.research.google.com/drive/1wJ8QgicQPWvwcmritdM6FCyhOVyoKvvb#scrollTo=ao0fCqW35tA1)
+
 ## Project Overview
 In this repository, I aim to retrieve essential product information from the Pomelo Fashion website using product ID data. The main information I want to obtain includes:
 
