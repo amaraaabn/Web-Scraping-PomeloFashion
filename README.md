@@ -28,7 +28,7 @@ Using the identified HTML patterns, I perform web scraping to extract the produc
 ## Challenges Faced
 During the process, I encountered challenges such as BeautifulSoup not being able to retrieve the complete HTML code. Initially, I was confused because the required data was not present in the HTML code that was readable. However, I found an alternative approach by utilizing string find elements in Python. This allowed me to successfully extract the required data and overcome the challenge.
 
-##Conclusion
+## Conclusion
 Through this project, I have demonstrated my problem-solving skills and determination to overcome challenges in data analysis and web scraping tasks. I am proud to have successfully extracted the product information needed from the Pomelo Fashion website and look forward to continuing to build my portfolio with more data analysis projects.
 
 # Thank you for visiting my portfolio!
